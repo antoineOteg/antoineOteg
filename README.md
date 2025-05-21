@@ -1,4 +1,4 @@
-Hi! I am Antoine Otegui, a French student at the IUT Informatique in Nantes.
-Want to know a little more about me? 🤔
-Feel free to visit my portfolio 👉 https://portfolio.antoineoteg.repl.co/ 👈
-Have a good visit 😊
+Hi! I'm Antoine Otegui, a French engineering student at IMT Atlantique.
+Want to know a bit more about me? 🤔
+Feel free to check out my portfolio 👉 https://portfolio.antoineoteg.repl.co/ 👈
+Enjoy your visit! 😊
